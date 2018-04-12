@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: e510c4e6d164bc44d8ca04800db7bdd0
+timeCreated: 1523452825
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ambientLight1
+    100002: ambientLight2
+    100004: ambientLight3
+    100006: ambientLight4
+    100008: Flap1
+    100010: Flap2
+    100012: Flaps
+    100014: ground
+    100016: Gun
+    100018: gunblock
+    100020: guntube2
+    100022: guntube3
+    100024: guuntube1
+    100026: lamplight1
+    100028: lamplight2
+    100030: lamplight3
+    100032: lamplight4
+    100034: lamposttub1
+    100036: lamposttub1 1
+    100038: lamposttub1 2
+    100040: lamposttub1 3
+    100042: lamppost1
+    100044: lamppost2
+    100046: lamppost3
+    100048: lamppost4
+    100050: lampposttub2
+    100052: lampposttub2 1
+    100054: lampposttub2 2
+    100056: lampposttub2 3
+    100058: lightsphere
+    100060: lightsphere 1
+    100062: lightsphere 2
+    100064: lightsphere 3
+    100066: moonlight
+    100068: pGear1
+    100070: pGear1 1
+    100072: pGear2
+    100074: pGear2 1
+    100076: pGear3
+    100078: pGear3 1
+    100080: pGear4
+    100082: pGear4 1
+    100084: pGear5
+    100086: pGear5 1
+    100088: pGear6
+    100090: pGear6 1
+    100092: pGear7
+    100094: pGear7 1
+    100096: //RootNode
+    100098: TankBody
+    100100: TankHead1
+    100102: tanktreadmash1
+    100104: tanktreadmash2
+    100106: tanktreads
+    100108: trackpath1
+    100110: trackpath2
+    100112: tread
+    100114: tread1
+    100116: tread1gears
+    100118: tread2gears
+    100120: guntube4
+    400000: ambientLight1
+    400002: ambientLight2
+    400004: ambientLight3
+    400006: ambientLight4
+    400008: Flap1
+    400010: Flap2
+    400012: Flaps
+    400014: ground
+    400016: Gun
+    400018: gunblock
+    400020: guntube2
+    400022: guntube3
+    400024: guuntube1
+    400026: lamplight1
+    400028: lamplight2
+    400030: lamplight3
+    400032: lamplight4
+    400034: lamposttub1
+    400036: lamposttub1 1
+    400038: lamposttub1 2
+    400040: lamposttub1 3
+    400042: lamppost1
+    400044: lamppost2
+    400046: lamppost3
+    400048: lamppost4
+    400050: lampposttub2
+    400052: lampposttub2 1
+    400054: lampposttub2 2
+    400056: lampposttub2 3
+    400058: lightsphere
+    400060: lightsphere 1
+    400062: lightsphere 2
+    400064: lightsphere 3
+    400066: moonlight
+    400068: pGear1
+    400070: pGear1 1
+    400072: pGear2
+    400074: pGear2 1
+    400076: pGear3
+    400078: pGear3 1
+    400080: pGear4
+    400082: pGear4 1
+    400084: pGear5
+    400086: pGear5 1
+    400088: pGear6
+    400090: pGear6 1
+    400092: pGear7
+    400094: pGear7 1
+    400096: //RootNode
+    400098: TankBody
+    400100: TankHead1
+    400102: tanktreadmash1
+    400104: tanktreadmash2
+    400106: tanktreads
+    400108: trackpath1
+    400110: trackpath2
+    400112: tread
+    400114: tread1
+    400116: tread1gears
+    400118: tread2gears
+    400120: guntube4
+    2300000: Flap1
+    2300002: Flap2
+    2300004: ground
+    2300006: gunblock
+    2300008: guntube2
+    2300010: guntube3
+    2300012: lamposttub1
+    2300014: lamposttub1 1
+    2300016: lamposttub1 2
+    2300018: lamposttub1 3
+    2300020: lampposttub2
+    2300022: lampposttub2 1
+    2300024: lampposttub2 2
+    2300026: lampposttub2 3
+    2300028: lightsphere
+    2300030: lightsphere 1
+    2300032: lightsphere 2
+    2300034: lightsphere 3
+    2300036: pGear1
+    2300038: pGear1 1
+    2300040: pGear2
+    2300042: pGear2 1
+    2300044: pGear3
+    2300046: pGear3 1
+    2300048: pGear4
+    2300050: pGear4 1
+    2300052: pGear5
+    2300054: pGear5 1
+    2300056: pGear6
+    2300058: pGear6 1
+    2300060: pGear7
+    2300062: pGear7 1
+    2300064: TankBody
+    2300066: TankHead1
+    2300068: tanktreadmash1
+    2300070: tanktreadmash2
+    2300072: tread
+    2300074: tread1
+    2300076: guntube4
+    3300000: Flap1
+    3300002: Flap2
+    3300004: ground
+    3300006: gunblock
+    3300008: guntube2
+    3300010: guntube3
+    3300012: lamposttub1
+    3300014: lamposttub1 1
+    3300016: lamposttub1 2
+    3300018: lamposttub1 3
+    3300020: lampposttub2
+    3300022: lampposttub2 1
+    3300024: lampposttub2 2
+    3300026: lampposttub2 3
+    3300028: lightsphere
+    3300030: lightsphere 1
+    3300032: lightsphere 2
+    3300034: lightsphere 3
+    3300036: pGear1
+    3300038: pGear1 1
+    3300040: pGear2
+    3300042: pGear2 1
+    3300044: pGear3
+    3300046: pGear3 1
+    3300048: pGear4
+    3300050: pGear4 1
+    3300052: pGear5
+    3300054: pGear5 1
+    3300056: pGear6
+    3300058: pGear6 1
+    3300060: pGear7
+    3300062: pGear7 1
+    3300064: TankBody
+    3300066: TankHead1
+    3300068: tanktreadmash1
+    3300070: tanktreadmash2
+    3300072: tread
+    3300074: tread1
+    3300076: guntube4
+    4300000: TankBody
+    4300002: Flap1
+    4300004: Flap2
+    4300006: TankHead1
+    4300008: guntube2
+    4300010: guntube3
+    4300012: gunblock
+    4300014: tanktreadmash1
+    4300016: pGear6
+    4300018: pGear1
+    4300020: pGear2
+    4300022: pGear3
+    4300024: pGear4
+    4300026: pGear5
+    4300028: pGear7
+    4300030: tanktreadmash2
+    4300032: pGear6
+    4300034: pGear1
+    4300036: pGear2
+    4300038: pGear3
+    4300040: pGear4
+    4300042: pGear5
+    4300044: pGear7
+    4300046: tread
+    4300048: tread1
+    4300050: ground
+    4300052: lamposttub1
+    4300054: lampposttub2
+    4300056: lightsphere
+    4300058: lamposttub1
+    4300060: lampposttub2
+    4300062: lightsphere
+    4300064: lamposttub1
+    4300066: lampposttub2
+    4300068: lightsphere
+    4300070: lamposttub1
+    4300072: lampposttub2
+    4300074: lightsphere
+    4300076: guntube4
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

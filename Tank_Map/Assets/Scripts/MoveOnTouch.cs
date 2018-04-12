@@ -9,15 +9,15 @@ public class MoveOnTouch : MonoBehaviour {
 
     private bool moving;
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnCollisionEnter(Collision collision)
     {
         moving = true;
         collision.collider.transform.SetParent(transform);
     }
 
-    private void OnCollisionExit2D(Collision2D collision)
+    private void OnCollisionExit(Collision collision)
     {
-        moving = true; 
+        moving = false; 
         collision.collider.transform.SetParent(null);
     }
 
@@ -28,7 +28,7 @@ public class MoveOnTouch : MonoBehaviour {
 	
 	// Update is called once per frame
 	void FixedUpdate () {
-        if (moving && transform.position.x <= -313.3)
+        if (moving && transform.position.x <= -358.3)
         {
             moving = false;
         }
